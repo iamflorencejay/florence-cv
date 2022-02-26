@@ -218,4 +218,4 @@ skills:
         level: 60%
 
 footer: >
-    &copy;<script>document.write(new Date().getFullYear())</script> Florence Jay Munar. All rights reserved.
+    &copy;<script>document.write(new Date().getFullYear())</script> Florence Jay Munar. All rights reserved. Powered by <a href="https://www.jekyllrb.com">Jekyll</a> and <a href="pages.github.com">GitHub Pages</a>.
