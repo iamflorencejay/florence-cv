@@ -143,9 +143,18 @@ projects:
     intro: >
       Here are the projects and open source programs that I've contributed in the past years.
     assignments:
-      - title: LBRY
+      - title: Community Dev on LBRY website
         link: "https://lbry.com"
         tagline: "Join top creators and more than 10,000,000 people on LBRY, an open, free, and fair network for digital content."
+      - title: Privacy Awareness Week - National Privacy Commission
+        link: "https://paw2021.privacy.gov.ph/"
+        tagline: "Privacy Awareness Week is a global initiative to educate the public about privacy and how to protect their personal information."
+      - title: National Youth Convention - STI College
+        link: "https://www.youthconvention.org/"
+        tagline: "The National Youth Convention is a convention that celebrates the youth of the Philippines."
+      - title: Front End Web Developer Challenge - Udacity
+        link: "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
+        tagline: "Front End Web Developer Nanodegree is a 12-week, immersive program that teaches you how to build a career as a front-end web developer."
 
 # publications:
 #     title: Publications
