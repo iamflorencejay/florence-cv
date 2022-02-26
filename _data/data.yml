@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -35,24 +35,26 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: Content Creating
         link:
 
-      - item: Cooking
+      - item: Crypto Stuff
+        link:
+
+      - item: Writing
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello! I'm a Bachelor in Multimedia Arts student, content creator, and 
+      cryptocurrency enthusiast for over a year. I post random stuff every single day 
+      on my channel. I want to publish e-books in the future if ever, HODL for greatest 
+      crypto and literally making a spot in television.
+
 education:
     - degree: Bachelor in Multimedia Arts
       university: STI College Balagtas
@@ -171,23 +173,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: HTML and HTML5
         level: 60%
+
+      - name: CSS3 and SASS
+        level: 50%
+
+      - name: Basic Photoshop & Video Editing
+        level: 50%
+
+      - name: Drawing and Illustration (2D)
+        level: 20%
+      
+      - name: Singing stuff
+        level: 70%
 
 footer: >
     &copy;<script>document.write(new Date().getFullYear())</script> Florence Jay Munar. All rights reserved.
