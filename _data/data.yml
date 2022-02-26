@@ -158,6 +158,9 @@ projects:
       - title: Kumu Creators Academy - Graduate
         link: "https://www.kumu.com/"
         tagline: "Kumu Creators Academy is a three-day, immersive program that teaches you how to create and share content on the platform."
+      - title: Animahenasyon 2021 - Animation Council
+        link: "https://www.animationcouncil.org/animahenasyon"
+        tagline: "ANIMAHENASYON is an annual animation festival that showcases Filipino talent in animation. The event is composed of plenary sessions on animation, technical workshop sessions, and an exhibition of companies offering animation and other creative services."
 
 
 
@@ -199,7 +202,7 @@ skills:
       - name: Drawing and Illustration (2D)
         level: 20%
       
-      - name: Singing stuff
+      - name: Singing and acting stuff
         level: 70%
 
       - name: Basic cryptocurrency knowledge
