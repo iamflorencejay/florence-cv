@@ -141,7 +141,7 @@ education:
 projects:
     title: Projects and Experiences
     intro: >
-      Here are the projects and open source programs that I've contributed in the past years.
+      Here are the projects, open source programs, and experiences that I've contributed in the past years. You can see some great stuff any time soon on my resume here.
     assignments:
       - title: Community Dev on LBRY website
         link: "https://lbry.com"
@@ -155,6 +155,12 @@ projects:
       - title: Front End Web Developer Challenge - Udacity
         link: "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
         tagline: "Front End Web Developer Nanodegree is a 12-week, immersive program that teaches you how to build a career as a front-end web developer."
+      - title: Kumu Creators Academy - Graduate
+        link: "https://www.kumu.com/"
+        tagline: "Kumu Creators Academy is a three-day, immersive program that teaches you how to create and share content on the platform."
+      - title: 
+
+
 
 # publications:
 #     title: Publications
@@ -186,7 +192,7 @@ skills:
         level: 60%
 
       - name: CSS3 and SASS
-        level: 50%
+        level: 40%
 
       - name: Basic Photoshop & Video Editing
         level: 50%
@@ -196,6 +202,9 @@ skills:
       
       - name: Singing stuff
         level: 70%
+
+      - name: Basic cryptocurrency knowledge
+        level: 60%
 
 footer: >
     &copy;<script>document.write(new Date().getFullYear())</script> Florence Jay Munar. All rights reserved.
