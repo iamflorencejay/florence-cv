@@ -171,8 +171,6 @@ projects:
         link: "https://www.animationcouncil.org/animahenasyon"
         tagline: "ANIMAHENASYON is an annual animation festival that showcases Filipino talent in animation. The event is composed of plenary sessions on animation, technical workshop sessions, and an exhibition of companies offering animation and other creative services."
 
-
-
 # publications:
 #     title: Publications
 #     intro: |
@@ -218,4 +216,4 @@ skills:
         level: 60%
 
 footer: >
-    &copy;<script>document.write(new Date().getFullYear())</script> <a href="https://florencejaymunar.com" target="_blank">Florence Jay Munar</a>. All rights reserved. Powered by <a href="https://www.jekyllrb.com">Jekyll</a> and <a href="pages.github.com">GitHub Pages</a>.
+    &copy;<script>document.write(new Date().getFullYear())</script> <a href="https://florencejaymunar.com" target="_blank">Florence Jay Munar</a>. All rights reserved. Powered by <a href="https://www.jekyllrb.com">Jekyll</a> and <a href="https://pages.github.com">GitHub Pages</a>.
