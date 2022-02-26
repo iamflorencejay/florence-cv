@@ -148,9 +148,9 @@ education:
 #           - Bullet point
 #           - Bullet point
 projects:
-    title: Projects and Experiences
+    title: Projects and Seminars
     intro: >
-      Here are the projects, open source programs, and experiences that I've contributed in the past years. You can see some great stuff any time soon on my resume here.
+      Here are the projects, open source programs, and seminars that I've contributed in the past years. You can see some great stuff any time soon on my resume here.
     assignments:
       - title: Community Dev on LBRY website
         link: "https://lbry.com"
